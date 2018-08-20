@@ -40,4 +40,4 @@ Shing Fung Lee, Miguel-Angel Luque Fernandez (2018). *Chronobiologic Rhythm of D
 
 ![Figure Link](https://github.com/bestmic/circadian_death/blob/master/Figure.png) 
  
-**Acknowledgment**: Miguel Angel Luque-Fernandez is supported by a Miguel Servet I Investigator Award (grant CP17/00206) from the Carlos III Institute of Health, Spain. We thank Mr K.F. Tsang for clerical support and database retrieval.
+**Acknowledgment**: Miguel Angel Luque-Fernandez is supported by a Miguel Servet I Investigator Award (CP17/00206) from the Carlos III Institute of Health, Spain. We thank Mr K.F. Tsang for clerical support and database retrieval.
